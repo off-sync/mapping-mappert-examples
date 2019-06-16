@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OffSync.Mapping.Mappert.Examples.HelloWorld", "src\OffSync.Mapping.Mappert.Examples.HelloWorld\OffSync.Mapping.Mappert.Examples.HelloWorld.csproj", "{A0D0390D-F11E-4436-8AB7-CA77B54DBE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffSync.Mapping.Mappert.Examples.Performance", "src\OffSync.Mapping.Mappert.Examples.Performance\OffSync.Mapping.Mappert.Examples.Performance.csproj", "{EC8E5004-FB06-4390-9C66-DEBCAB395958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0D0390D-F11E-4436-8AB7-CA77B54DBE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D0390D-F11E-4436-8AB7-CA77B54DBE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D0390D-F11E-4436-8AB7-CA77B54DBE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D0390D-F11E-4436-8AB7-CA77B54DBE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8E5004-FB06-4390-9C66-DEBCAB395958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8E5004-FB06-4390-9C66-DEBCAB395958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8E5004-FB06-4390-9C66-DEBCAB395958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8E5004-FB06-4390-9C66-DEBCAB395958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89FD6888-622D-41AE-BB33-306B6227342A}
+	EndGlobalSection
+EndGlobal
